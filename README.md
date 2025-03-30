@@ -1,6 +1,6 @@
 ## 🪐 Hi there! ✨
 
-### My name is Leonardo Pedro and I'm 23 years old.
+### My name is Leonardo Pedro.
 I'm currently pursuing a bachelor's degree in Computer Science at the Federal University of São Carlos (UFSCar - Sorocaba).
 
 ##
